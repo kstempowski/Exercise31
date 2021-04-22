@@ -1,0 +1,13 @@
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week3\Exercise31\Exercise31\bin\Debug\netcoreapp3.1\Exercise31.exe
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week3\Exercise31\Exercise31\bin\Debug\netcoreapp3.1\Exercise31.deps.json
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week3\Exercise31\Exercise31\bin\Debug\netcoreapp3.1\Exercise31.runtimeconfig.json
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week3\Exercise31\Exercise31\bin\Debug\netcoreapp3.1\Exercise31.runtimeconfig.dev.json
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week3\Exercise31\Exercise31\bin\Debug\netcoreapp3.1\Exercise31.dll
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week3\Exercise31\Exercise31\bin\Debug\netcoreapp3.1\Exercise31.pdb
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week3\Exercise31\Exercise31\obj\Debug\netcoreapp3.1\Exercise31.csprojAssemblyReference.cache
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week3\Exercise31\Exercise31\obj\Debug\netcoreapp3.1\Exercise31.AssemblyInfoInputs.cache
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week3\Exercise31\Exercise31\obj\Debug\netcoreapp3.1\Exercise31.AssemblyInfo.cs
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week3\Exercise31\Exercise31\obj\Debug\netcoreapp3.1\Exercise31.csproj.CoreCompileInputs.cache
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week3\Exercise31\Exercise31\obj\Debug\netcoreapp3.1\Exercise31.dll
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week3\Exercise31\Exercise31\obj\Debug\netcoreapp3.1\Exercise31.pdb
+C:\Users\kenny\Documents\Grand Circus\Assignments\Week3\Exercise31\Exercise31\obj\Debug\netcoreapp3.1\Exercise31.genruntimeconfig.cache
